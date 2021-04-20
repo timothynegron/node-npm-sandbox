@@ -26,7 +26,3 @@ Within the directory of the project use npm install [package name]
 Use the package
 * Could access package by initialize a variable with require function
 * EX: `let superheroes = require("superheroes");`
-
-## `Other Notes`
-
-* Can 
