@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/timothynegron/node-npm-sandbox/issues"
   },
-  "homepage": "https://github.com/timothynegron/node-npm-sandbox#readme"
+  "homepage": "https://github.com/timothynegron/node-npm-sandbox#readme",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
 }
